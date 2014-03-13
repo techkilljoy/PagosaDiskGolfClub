@@ -14,6 +14,15 @@ h1
 	margin-top:31px;
 	margin-bottom:31px;
 }
+#title_left
+{
+	float:left;
+	margin: 1px;
+}
+#title_right{
+	float:right;
+	margin: 1px;
+}
 	
 body{
 	font-family: Arial, Helvetica, sans-serif;
