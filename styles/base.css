@@ -5,7 +5,7 @@ header{
 	line-height: 20pt;
 }
 nav{
-	border-bottom: 2px solid 
+	border-bottom: 2px solid #43AB38;
 }
 h1 
 {
@@ -21,4 +21,9 @@ body{
 a{
 	color: blue;
 
+}
+footer{
+	border: 1px;
+	background-color: #fff227;
+	color: black;
 }
