@@ -8,3 +8,6 @@ Very proffesional sites with a background picture attracts the most customers. M
 All sorts of aged gits play this game.
 5. What do they like to do while playing disc golf.
 Many courses advertise that their course allows dogs.
+A nice wilderness enviroment is also often advertised.
+6. What logos are used.
+Popular website logos often feature a goal, frisbee, or both.
