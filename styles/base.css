@@ -7,13 +7,16 @@ header{
 nav{
 	border-bottom: 2px solid 
 }
+h1 
+{
+	color: ;
+	text-align:center;
+	padding-bottom: ;
+	margin-top:;
+	margin-bottom:;
 body{
 	font-family: Arial, Helvetica, sans-serif;
-
 	background-color:#F2FFFF;
-	
-		
-
 }
 a{
 	color: blue;
