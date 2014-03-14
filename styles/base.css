@@ -7,6 +7,24 @@ header{
 nav{
 	border-bottom: 2px solid #43AB38;
 }
+#nav_bar ul{
+	list-style: none;
+	padding: 1em 0;
+	background-color: #FC312C;
+}
+#nav_bar li{
+	display: inline;
+}
+#nav_bar a{
+	padding: .5em .5em
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	border-right: 2px solid #43AB38;
+}
+#nav_bar a.current{
+	color: yellow;
+}
 h1 
 {
 	color: black;
@@ -36,4 +54,9 @@ footer{
 	border: 1px;
 	background-color: #fff227;
 	color: black;
+}
+
+.content{
+	-webkit-columns:200px 2; /* Safari and Chrome */
+	-moz-columns:200px 2; /* Firefox */
 }
