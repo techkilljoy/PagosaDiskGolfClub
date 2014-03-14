@@ -37,3 +37,8 @@ footer{
 	background-color: #fff227;
 	color: black;
 }
+
+.content{
+	-webkit-columns:200px 2; /* Safari and Chrome */
+	-moz-columns:200px 2; /* Firefox */
+}
