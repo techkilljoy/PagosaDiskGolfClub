@@ -16,7 +16,7 @@ nav{
 	display: inline;
 }
 #nav_bar a{
-	padding: 1em 2em
+	padding: .5em .5em
 	text-decoration: none;
 	color: black;
 	font-weight: bold;
