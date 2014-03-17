@@ -11,12 +11,13 @@ nav{
 	list-style: none;
 	padding: .5em 0;
 	background-color: #FC312C;
+	text-align: center;
 }
 #nav_bar li{
 	display: inline;
 }
 #nav_bar a{
-	padding: 1em 2em
+	padding: 1em 2em;
 	text-decoration: none;
 	color: black;
 	font-weight: bold;
@@ -28,11 +29,6 @@ h1
 	padding-bottom: .1em;
 	margin-top:31px;
 	margin-bottom:31px;
-}
-#title_left
-{
-	float:left;
-	margin: 1px;
 }
 #title_right{
 	float:right;
