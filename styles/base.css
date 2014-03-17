@@ -53,3 +53,6 @@ footer{
 	-webkit-columns:200px 2; /* Safari and Chrome */
 	-moz-columns:200px 2; /* Firefox */
 }
+#banner{
+	text-align:center;
+}
