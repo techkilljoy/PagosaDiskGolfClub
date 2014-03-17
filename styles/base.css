@@ -11,12 +11,13 @@ nav{
 	list-style: none;
 	padding: .5em 0;
 	background-color: #FC312C;
+	text-align: center;
 }
 #nav_bar li{
 	display: inline;
 }
 #nav_bar a{
-	padding: 1em 2em
+	padding: 1em 2em;
 	text-decoration: none;
 	color: black;
 	font-weight: bold;
@@ -51,4 +52,7 @@ footer{
 .content{
 	-webkit-columns:200px 2; /* Safari and Chrome */
 	-moz-columns:200px 2; /* Firefox */
+}
+#banner{
+	text-align:center;
 }
