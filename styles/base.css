@@ -10,7 +10,7 @@ nav{
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
-	background-color: #FC312C;
+	background-color: #FFFFFF;
 	text-align: center;
 }
 #nav_bar li{
@@ -38,6 +38,7 @@ h1
 body{
 	font-family: Arial, Helvetica, sans-serif;
 	background-color:#F2FFFF;
+	color:#424242;
 }
 a{
 	color: blue;
@@ -56,3 +57,4 @@ footer{
 #banner{
 	text-align:center;
 }
+
