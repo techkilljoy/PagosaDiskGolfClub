@@ -54,4 +54,9 @@ footer{
 }
 #banner{
 	text-align:center;
+	border: 2px solid #43AB38;
+	margin-top: 10px;
+}
+
+	
 }
