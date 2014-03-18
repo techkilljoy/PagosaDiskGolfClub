@@ -3,6 +3,7 @@ header{
 	border-top: 3px solid #43AB38;
 	background-color: #06C0FF;
 	line-height: 20pt;
+	
 }
 nav{
 	border-bottom: 2px solid #43AB38;
@@ -10,7 +11,7 @@ nav{
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
-	background-color: #FC312C;
+	background-color: #ffffff;
 	text-align: center;
 }
 #nav_bar li{
