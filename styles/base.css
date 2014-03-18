@@ -1,7 +1,7 @@
 header{
 	border-bottom: 3px solid #43AB38;
 	border-top: 3px solid #43AB38;
-	background-color: #06C0FF;
+	background-color: #6dc2de;
 	line-height: 20pt;
 	
 }
@@ -10,7 +10,7 @@ nav{
 }
 #nav_bar ul{
 	list-style: none;
-	background-color: #ffffff;
+	background-color: #a2a3a2;
 	text-align: center;
 }
 #nav_bar li{
@@ -44,7 +44,7 @@ a{
 }
 footer{
 	border: 1px;
-	background-color: #fff227;
+	background-color: #ffc317;
 	color: black;
 }
 
