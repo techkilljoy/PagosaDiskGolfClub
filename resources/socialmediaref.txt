@@ -1,3 +1,7 @@
 Flickr account
 username:
 password:
+
+Facebook account
+username:
+password:
