@@ -17,11 +17,11 @@ nav{
 	display: inline;
 }
 #nav_bar a{
-	padding: .5em .5em;
+	padding: 1em 1em;
 	color: black;
 	font-weight: bold;
 	text-decoration: none;
-	
+	letter-spacing: 1px;
 }
 h1 
 {
