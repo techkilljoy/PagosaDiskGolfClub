@@ -44,6 +44,7 @@ HOLE INFO. NOTES:
  RULES:
  Throw the frisbee into the basket in as least tries as you can
  Never throw the frisbee with anyone around
+ The player whos frisbee is furthest from the basket, throws next
  
  
 >>>>>>> fea96ff4dfda0865410c397dc54af2fd18fbf45d
