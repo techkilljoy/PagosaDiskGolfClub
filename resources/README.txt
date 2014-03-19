@@ -36,3 +36,7 @@ HOLE INFO. NOTES:
  Red is the less difficult of the two
  Blue is the harder of the two 
  
+  RULES:
+  Throw the frisbee into the basked in as least tries as you can.
+  Never throw the frisbe with anyone around
+  The player whos frisbee is furthest from the basked throws next.
