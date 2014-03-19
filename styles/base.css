@@ -62,7 +62,20 @@ footer{
 html{
 	background-color: #696969;
 	border: #696969;
+}
+#calender{
+	border-radius: 10px 10px 10px 10px;
+	background-color: #;
+	width: 50%;
+	margin-top: 3em;
+}
+#events{
+	background-color: #696969;
+}
+#banner{
+	text-align:center;
+	border: 2px solid #43AB38;
+	margin-top:10px;
+	background-color: solid white;
 	
 }
-	
-
