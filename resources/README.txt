@@ -35,4 +35,3 @@ HOLE INFO. NOTES:
  Yellow is the Raven
  Red is the less difficult of the two
  Blue is the harder of the two 
- 
