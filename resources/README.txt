@@ -39,12 +39,21 @@ HOLE INFO. NOTES:
  White is the Original (Eagle) course
  Yellow is the Raven
  Red is the less difficult of the two
+<<<<<<< HEAD
  Blue is the harder of the two 
  
  RULES:
  Throw the frisbee into the basket in as least tries as you can
  Never throw the frisbee with anyone around
  The player whos frisbee is furthest from the basket, throws next
- 
+ One stroke is counted each time the disc is thrown
+ Get the lowest score to win
+ 1 stroke penalty is applied when your disc goes out of bounds or in a water hazard
+ Your lie can be marked with a mini disc or by flipping your disc over
+ Must throw from behind your lie
+ The hole is completed when your disc rests into the basket
  
 >>>>>>> fea96ff4dfda0865410c397dc54af2fd18fbf45d
+=======
+ Blue is the harder of the two 
+>>>>>>> de739da95a928a74e156d3673618938438df55ed
