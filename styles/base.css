@@ -3,6 +3,7 @@ header{
 	border-top: 3px solid #43AB38;
 	background-color: #06C0FF;
 	line-height: 20pt;
+	
 }
 nav{
 	border-bottom: 2px solid #43AB38;
@@ -18,10 +19,8 @@ nav{
 }
 #nav_bar a{
 	padding: 1em 2em;
-	text-decoration: none;
 	color: black;
 	font-weight: bold;
-	border-right: 2px solid #43AB38;
 }
 h1 
 {
@@ -57,4 +56,5 @@ footer{
 #banner{
 	text-align:center;
 }
+
 
