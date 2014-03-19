@@ -1,3 +1,15 @@
 Flickr account
+username:pagosadiscgolfclub@yahoo.com
+password:ReservoirH1ll
+
+Facebook account
 username:
 password:
+
+Gmail account
+username:pagosadiscgolfclub@gmail.com
+Password:reservoirhill
+
+Yahoo account
+username:pagosadiscgolfclub@yahoo.com
+password:ReservoirH1ll
