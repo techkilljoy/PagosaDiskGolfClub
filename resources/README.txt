@@ -36,13 +36,6 @@ HOLE INFO. NOTES:
  Red is the less difficult of the two
  Blue is the harder of the two 
  
-DESCRIPTION: Mostly flat and open with nice views. 
-
-Local Directions: From Pagosa Springs:
-Head west on US-160 for around 11 miles to a left on Hurt Dr.
- Follow it to the right and make a left to stay on Hurt Dr.
-  Continue for .6 miles to a left on Ute Dr. Drive across valley and park at pavilion. 
-  
   RULES:
   Throw the frisbee into the basked in as least tries as you can.
   Never throw the frisbe with anyone around
