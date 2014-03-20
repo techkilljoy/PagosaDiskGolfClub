@@ -57,3 +57,9 @@ LOCAL DIRECTIONS: From HW 160 turn North on Piedra Blvd.
   Throw the frisbee into the basked in as least tries as you can.
   Never throw the frisbe with anyone around
   The player whos frisbee is furthest from the basked throws next.
+  ---------------------------------------------------------------
+LOCAL MERCHANTS:
+http://pagosaoutside.com/
+http://www.summitski.org/
+http://ridepagosasprings.com/
+http://www.resportonline.com/
