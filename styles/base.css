@@ -9,6 +9,7 @@ nav{
 }
 #nav_bar ul{
 	list-style: none;
+	padding: .5em 0;
 	background-color: #a2a3a2;
 	text-align: center;
 }
@@ -39,6 +40,7 @@ body{
 	text-align: left;	
 	border-radius: 20px 20px 20px 20px;
 	box-shadow: 3px 3px 4px 4px #9cb2a3;
+
 }
 a{
 	color: blue;
@@ -61,6 +63,16 @@ footer{
 }
 html{
 	background-color: #696969;
+<<<<<<< HEAD
+#nav_middle{
+	margin-right:7%;
+	
+}
+#nav_middle1{
+	margin-left:7%;
+}
+
+=======
 	border: #696969;
 }
 #calender{
@@ -77,5 +89,6 @@ html{
 	border: 2px solid #43AB38;
 	margin-top:10px;
 	background-color: solid white;
+>>>>>>> 5d8a210278f859185f8d927b63f52359beca446c
 	
 }
