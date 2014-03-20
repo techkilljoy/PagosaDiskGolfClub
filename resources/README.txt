@@ -24,7 +24,7 @@ Description: Beautiful wooded course with full signage.
  some short, some long. Signature holes are 12 and 18.
  Original tees are the Eagle course, New tees are Raven course. 
  
-LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
+RESERVOIR HILL COURSE LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  Turn south onto Hot Springs Boulevard and after 0.3 mi,
  look for a sign with a symbol of a disc basket.
  Turn left (east) onto Spring Street and park in the gravel lot.
@@ -32,6 +32,10 @@ LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  and look for the first hole on the north side of the meadow 
  approximately one-quarter mile up the road or foot path 
  (road intersects foot path near the tees for #1 and #16). 
+ 
+ CLOMAN PARK COURSE LOCAL DIRECTIONS: From HW 160 turn North on Piedra Blvd. 
+ Turn right on Cloman Blvd (Steven's Field airport sign). 
+ Cloman Blvd dead ends into Cloman Park parking lot. 
  
 MEASUREMENTS ACQUIRED BY: Tee Sign 
  
