@@ -14,8 +14,6 @@ A nice wilderness enviroment is also often advertised.
 Popular website logos often feature a goal, frisbee, or both.
 
 RESEARCH
----------------------------------------------------------------
-PUT HILL DISC GOLF COURSE
 Description: Beautiful wooded course with full signage.
  Very technical, a variety of shots are necessary - 
  some short, some long. Signature holes are 12 and 18.
@@ -37,22 +35,7 @@ HOLE INFO. NOTES:
  Yellow is the Raven
  Red is the less difficult of the two
  Blue is the harder of the two 
- --------------------------------------------------------------
- ASPEN SPRINGS DISC GOLF COURSE
-DESCRIPTION: Mostly flat and open with nice views. 
-
-Local Directions: From Pagosa Springs:
-Head west on US-160 for around 11 miles to a left on Hurt Dr.
- Follow it to the right and make a left to stay on Hurt Dr.
-  Continue for .6 miles to a left on Ute Dr. Drive across valley and park at pavilion. 
------------------------------------------------------------------
-CLOMAN DISC GOLF COURSE
-DESCRIPTION: Mostly flat park with lots of mature ponderosa pine trees and one hill in play on 3 holes. 
-
-LOCAL DIRECTIONS: From HW 160 turn North on Piedra Blvd.
- Turn right on Cloman Blvd (Steven's Field airport sign).]
-  Cloman Blvd dead ends into Cloman Park parking lot. 
--------------------------------------------------------------------
+ 
   RULES:
   Throw the frisbee into the basked in as least tries as you can.
   Never throw the frisbe with anyone around
