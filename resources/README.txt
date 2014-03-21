@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 1. What kind of people play disc golf.
 All kinds of gits.
 2. What kind of equipment do people prefer to use.
@@ -14,15 +12,13 @@ Many courses advertise that their course allows dogs.
 A nice wilderness enviroment is also often advertised.
 6. What logos are used.
 Popular website logos often feature a goal, frisbee, or both.
-<<<<<<< HEAD
->>>>>>> 0b2e83f7b968fecbf4149a211f118cc145026269
-=======
-
-RESEARCH
+------------------------------------------------------------------------
 Description: Beautiful wooded course with full signage.
  Very technical, a variety of shots are necessary - 
  some short, some long. Signature holes are 12 and 18.
  Original tees are the Eagle course, New tees are Raven course. 
+ -----------------------------------------------------------------
+LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  
 RESERVOIR HILL COURSE LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  Turn south onto Hot Springs Boulevard and after 0.3 mi,
@@ -32,6 +28,7 @@ RESERVOIR HILL COURSE LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  and look for the first hole on the north side of the meadow 
  approximately one-quarter mile up the road or foot path 
  (road intersects foot path near the tees for #1 and #16). 
+ --------------------------------------------------------------
  
 CLOMAN PARK COURSE LOCAL DIRECTIONS: From HW 160 turn North on Piedra Blvd. 
 Turn right on Cloman Blvd (Steven's Field airport sign). 
@@ -44,13 +41,11 @@ Continue for .6 miles to a left on Ute Dr.
 Drive across valley and park at pavilion.
  
 MEASUREMENTS ACQUIRED BY: Tee Sign 
- 
+ ----------------------------------------------------------------
 HOLE INFO. NOTES: 
  White is the Original (Eagle) course
  Yellow is the Raven
  Red is the less difficult of the two
-<<<<<<< HEAD
-<<<<<<< HEAD
  Blue is the harder of the two 
  
  RULES:
@@ -63,14 +58,8 @@ HOLE INFO. NOTES:
  Your lie can be marked with a mini disc or by flipping your disc over
  Must throw from behind your lie
  The hole is completed when your disc rests into the basket
- 
->>>>>>> fea96ff4dfda0865410c397dc54af2fd18fbf45d
-=======
  Blue is the harder of the two 
->>>>>>> de739da95a928a74e156d3673618938438df55ed
-=======
- Blue is the harder of the two 
- 
+ ------------------------------------------------------------------
   RULES:
   Throw the frisbee into the basked in as least tries as you can.
   Never throw the frisbe with anyone around
@@ -81,6 +70,9 @@ http://pagosaoutside.com/
 http://www.summitski.org/
 http://ridepagosasprings.com/
 http://www.resportonline.com/
+<<<<<<< HEAD
 -----------------------------------------------------------------
 PDGC OFFICE NUMBER: (970) 264-4151
 >>>>>>> 1d591313d2c7425b5e1e4ca89c6625ce03b8cdbe
+=======
+>>>>>>> 737404ecd66626c7581ba274d3b1fbc710f1c802
