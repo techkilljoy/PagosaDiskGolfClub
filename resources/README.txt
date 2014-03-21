@@ -15,16 +15,25 @@ A nice wilderness enviroment is also often advertised.
 6. What logos are used.
 Popular website logos often feature a goal, frisbee, or both.
 <<<<<<< HEAD
+-------------------------------------------------------------
+=======
+<<<<<<< HEAD
 >>>>>>> 0b2e83f7b968fecbf4149a211f118cc145026269
 =======
 
+>>>>>>> db57471b08643158d889d870976a33540de9feea
 RESEARCH
 Description: Beautiful wooded course with full signage.
  Very technical, a variety of shots are necessary - 
  some short, some long. Signature holes are 12 and 18.
  Original tees are the Eagle course, New tees are Raven course. 
+<<<<<<< HEAD
+ -----------------------------------------------------------------
+LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
+=======
  
 RESERVOIR HILL COURSE LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
+>>>>>>> db57471b08643158d889d870976a33540de9feea
  Turn south onto Hot Springs Boulevard and after 0.3 mi,
  look for a sign with a symbol of a disc basket.
  Turn left (east) onto Spring Street and park in the gravel lot.
@@ -32,6 +41,9 @@ RESERVOIR HILL COURSE LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  and look for the first hole on the north side of the meadow 
  approximately one-quarter mile up the road or foot path 
  (road intersects foot path near the tees for #1 and #16). 
+<<<<<<< HEAD
+ --------------------------------------------------------------
+=======
  
 CLOMAN PARK COURSE LOCAL DIRECTIONS: From HW 160 turn North on Piedra Blvd. 
 Turn right on Cloman Blvd (Steven's Field airport sign). 
@@ -43,8 +55,9 @@ Follow it to the right and make a left to stay on Hurt Dr.
 Continue for .6 miles to a left on Ute Dr. 
 Drive across valley and park at pavilion.
  
+>>>>>>> db57471b08643158d889d870976a33540de9feea
 MEASUREMENTS ACQUIRED BY: Tee Sign 
- 
+ ----------------------------------------------------------------
 HOLE INFO. NOTES: 
  White is the Original (Eagle) course
  Yellow is the Raven
@@ -70,7 +83,7 @@ HOLE INFO. NOTES:
 >>>>>>> de739da95a928a74e156d3673618938438df55ed
 =======
  Blue is the harder of the two 
- 
+ ------------------------------------------------------------------
   RULES:
   Throw the frisbee into the basked in as least tries as you can.
   Never throw the frisbe with anyone around
