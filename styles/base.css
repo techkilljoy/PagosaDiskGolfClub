@@ -63,7 +63,7 @@ footer{
 }
 html{
 	background-color: #696969;
-
+}
 #nav_middle{
 	margin-right:7%;
 	
@@ -73,11 +73,9 @@ html{
 }
 
 
-	border: #696969;
-}
 #calender{
 	border-radius: 10px 10px 10px 10px;
-	background-color: #;
+	background-color: #000000;
 	width: 50%;
 	margin-top: 3em;
 }
