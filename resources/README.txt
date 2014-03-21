@@ -33,9 +33,15 @@ RESERVOIR HILL COURSE LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  approximately one-quarter mile up the road or foot path 
  (road intersects foot path near the tees for #1 and #16). 
  
- CLOMAN PARK COURSE LOCAL DIRECTIONS: From HW 160 turn North on Piedra Blvd. 
- Turn right on Cloman Blvd (Steven's Field airport sign). 
- Cloman Blvd dead ends into Cloman Park parking lot. 
+CLOMAN PARK COURSE LOCAL DIRECTIONS: From HW 160 turn North on Piedra Blvd. 
+Turn right on Cloman Blvd (Steven's Field airport sign). 
+Cloman Blvd dead ends into Cloman Park parking lot. 
+ 
+ASPEN SPRINGS COURSE LOCAL DIRECTIONS: From Pagosa Springs:
+Head west on US-160 for around 11 miles to a left on Hurt Dr. 
+Follow it to the right and make a left to stay on Hurt Dr. 
+Continue for .6 miles to a left on Ute Dr. 
+Drive across valley and park at pavilion.
  
 MEASUREMENTS ACQUIRED BY: Tee Sign 
  
