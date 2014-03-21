@@ -2,7 +2,6 @@ Flickr account
 username:
 password:
 
-<<<<<<< HEAD
 Gmail account
 username:pagosadiscgolfclub@gmail.com
 Password:reservoirhill
@@ -11,12 +10,6 @@ Yahoo account
 username:pagosadiscgolfclub@yahoo.com
 password:ReservoirH1ll
 
-WordPress account
-username:pagosadiscgolfclub
-password:reservoirh1ll
-blog address: pagosadiscgolfclub.wordpress.com
-=======
 Facebook account
 username:
 password:
->>>>>>> 6c0331908c3ec5a1c9416e60c5cbfc61d460b660
