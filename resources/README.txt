@@ -50,6 +50,7 @@ HOLE INFO. NOTES:
  Yellow is the Raven
  Red is the less difficult of the two
 <<<<<<< HEAD
+<<<<<<< HEAD
  Blue is the harder of the two 
  
  RULES:
@@ -67,3 +68,17 @@ HOLE INFO. NOTES:
 =======
  Blue is the harder of the two 
 >>>>>>> de739da95a928a74e156d3673618938438df55ed
+=======
+ Blue is the harder of the two 
+ 
+  RULES:
+  Throw the frisbee into the basked in as least tries as you can.
+  Never throw the frisbe with anyone around
+  The player whos frisbee is furthest from the basked throws next.
+  ---------------------------------------------------------------
+LOCAL MERCHANTS:
+http://pagosaoutside.com/
+http://www.summitski.org/
+http://ridepagosasprings.com/
+http://www.resportonline.com/
+>>>>>>> 1d591313d2c7425b5e1e4ca89c6625ce03b8cdbe
