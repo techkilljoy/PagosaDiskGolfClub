@@ -86,7 +86,10 @@ html{
 	text-align:center;
 	border: 2px solid #43AB38;
 	margin-top:10px;
-	background-color: solid white;
-
-	
+	background-color: solid white;	
+}
+#paypal_button{
+	margin-left:45%;
+	margin-top:10%;
+	margin-bottom:5%;
 }
