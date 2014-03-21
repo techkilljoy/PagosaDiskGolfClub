@@ -12,13 +12,13 @@ Many courses advertise that their course allows dogs.
 A nice wilderness enviroment is also often advertised.
 6. What logos are used.
 Popular website logos often feature a goal, frisbee, or both.
-
+-------------------------------------------------------------
 RESEARCH
 Description: Beautiful wooded course with full signage.
  Very technical, a variety of shots are necessary - 
  some short, some long. Signature holes are 12 and 18.
  Original tees are the Eagle course, New tees are Raven course. 
- 
+ -----------------------------------------------------------------
 LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  Turn south onto Hot Springs Boulevard and after 0.3 mi,
  look for a sign with a symbol of a disc basket.
@@ -27,15 +27,15 @@ LOCAL DIRECTIONS: From HWY 160 in downtown Pagosa Springs:
  and look for the first hole on the north side of the meadow 
  approximately one-quarter mile up the road or foot path 
  (road intersects foot path near the tees for #1 and #16). 
- 
+ --------------------------------------------------------------
 MEASUREMENTS ACQUIRED BY: Tee Sign 
- 
+ ----------------------------------------------------------------
 HOLE INFO. NOTES: 
  White is the Original (Eagle) course
  Yellow is the Raven
  Red is the less difficult of the two
  Blue is the harder of the two 
- 
+ ------------------------------------------------------------------
   RULES:
   Throw the frisbee into the basked in as least tries as you can.
   Never throw the frisbe with anyone around
