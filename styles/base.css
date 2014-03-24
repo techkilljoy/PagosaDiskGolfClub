@@ -58,7 +58,7 @@ footer{
 }
 #banner{
 	text-align:center;
-	border: 2px solid #a4ed34;
+	border: 2px solid #43AB38;
 	margin-top: 10px;
 }
 html{
@@ -84,7 +84,9 @@ html{
 }
 #banner{
 	text-align:center;
-	border: 2px solid #6dc2de;
+	border: 2px solid #43AB38;
 	margin-top:10px;
 	background-color: solid white;
+
+	
 }
