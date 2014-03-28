@@ -70,5 +70,9 @@ http://pagosaoutside.com/
 http://www.summitski.org/
 http://ridepagosasprings.com/
 http://www.resportonline.com/
+<<<<<<< HEAD
 -----------------------------------------------------------------
 PDGC OFFICE NUMBER: (970) 264-4151
+>>>>>>> 1d591313d2c7425b5e1e4ca89c6625ce03b8cdbe
+=======
+>>>>>>> 737404ecd66626c7581ba274d3b1fbc710f1c802
