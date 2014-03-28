@@ -94,9 +94,16 @@ html{
 #paypal_button{
 	margin-left: 44%;
 	margin-right: 45%;
+	margin-top:2em;
+	
 }
 #paragraph_mem{
 	text-align:center;
 	margin-left: 43%;
 	margin-right: 43%;
+	margin-top: 1em;
+	
+}
+#events{
+	float: right;
 }
