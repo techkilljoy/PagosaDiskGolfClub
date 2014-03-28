@@ -58,7 +58,7 @@ footer{
 }
 #banner{
 	text-align:center;
-	border: 2px solid #a4ed34;
+	border: 2px solid #43AB38;
 	margin-top: 10px;
 }
 html{
@@ -70,6 +70,9 @@ html{
 }
 #nav_middle1{
 	margin-left:7%;
+}
+#merchant{
+	text-align: center;
 }
 
 
@@ -84,7 +87,23 @@ html{
 }
 #banner{
 	text-align:center;
-	border: 2px solid #6dc2de;
+	border: 2px solid #43AB38;
 	margin-top:10px;
 	background-color: solid white;
+}
+#paypal_button{
+	margin-left: 44%;
+	margin-right: 45%;
+	margin-top:2em;
+	
+}
+#paragraph_mem{
+	text-align:center;
+	margin-left: 43%;
+	margin-right: 43%;
+	margin-top: 1em;
+	
+}
+#events{
+	float: right;
 }
