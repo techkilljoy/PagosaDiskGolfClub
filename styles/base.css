@@ -50,6 +50,7 @@ footer{
 	border: 1px;
 	background-color: #ffc317;
 	color: black;
+	border-radius: 10px 10px 10px 10px;
 }
 
 .content{
@@ -106,4 +107,7 @@ html{
 }
 #events{
 	float: right;
+}
+footer p{
+	margin-left: 3em;
 }
