@@ -96,6 +96,14 @@ http://ridepagosasprings.com/
 http://www.resportonline.com/
 <<<<<<< HEAD
 -----------------------------------------------------------------
+ABOUT PDGC: Since its inception in 2009, the Pagosa Disc Golf Club has developed a world-class 
+18 hole disc golf course on Reservoir Hill in downtown Pagosa Springs and another one on Cloman Ave. 
+The first course offers challenge for both the advanced and novice player as they gracefully wind 
+between thickets of Gamble Oak and stands of Pondera Pines, while the “Sneak-a-Peak" (Cloman) course 
+offfers greater distances and general openness. A third local course of 9 holes is located in Aspen Springs 
+just west of Pagosa Springs. Whether a long-time local or a tourist visiting for the first time, enjoy 
+your play in Pagosa and return to our courses many times to take advantage of their beauty and challenge!
+
 PDGC OFFICE NUMBER: (970) 264-4151
 >>>>>>> 1d591313d2c7425b5e1e4ca89c6625ce03b8cdbe
 =======
