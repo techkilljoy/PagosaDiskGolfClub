@@ -115,3 +115,9 @@ html{
 footer p{
 	margin-left: 3em;
 }
+#contact_info{
+	text-align:center;
+}
+#frame{
+	width:50%;
+}
