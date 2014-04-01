@@ -93,7 +93,6 @@ html{
 }
 #banner{
 	text-align:center;
-	border: 2px solid #43AB38;
 	margin-top:10px;
 	background-color: solid white;
 }
@@ -121,4 +120,7 @@ footer p{
 }
 #frame{
 	width:50%;
+}
+#face{
+	text-align:center;
 }
