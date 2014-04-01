@@ -51,6 +51,7 @@ footer{
 	background-color: #ffc317;
 	color: black;
 	border-radius: 10px 10px 10px 10px;
+	clear: left;
 }
 
 .content{
@@ -75,7 +76,12 @@ html{
 #merchant{
 	text-align: center;
 }
-
+#about{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	line-height: 23px;
+}
 
 #calender{
 	border-radius: 10px 10px 10px 10px;
@@ -110,4 +116,13 @@ html{
 }
 footer p{
 	margin-left: 3em;
+}
+#contact_info{
+	text-align:center;
+}
+#frame{
+	width:50%;
+}
+#face{
+	text-align: center;
 }
