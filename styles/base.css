@@ -48,7 +48,7 @@ a{
 }
 footer{
 	border: 1px;
-	background-color: #ffc317;
+	background-color: #FFB017;
 	color: black;
 	border-radius: 10px 10px 10px 10px;
 	clear: left;
@@ -60,7 +60,6 @@ footer{
 }
 #banner{
 	text-align:center;
-	border: 2px solid #43AB38;
 	margin-top: 10px;
 }
 html{
