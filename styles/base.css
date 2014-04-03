@@ -124,3 +124,8 @@ footer p{
 #face{
 	text-align: center;
 }
+.content{
+	-moz-column-count:2
+	;
+	-moz-column-gap:35;
+}
