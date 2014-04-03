@@ -3,6 +3,7 @@ header{
 	border-top: 3px solid #43AB38;
 	background-color: #6dc2de;
 	line-height: 20pt;
+	border-radius: 20px 20px 0px 0px;
 }
 nav{
 	border-bottom: 2px solid #43AB38;
@@ -23,12 +24,14 @@ nav{
 	text-decoration: none;
 	letter-spacing: 1px;
 }
-h1 
-{
+h1{
 	color: black;
 	padding-bottom: .1em;
 	margin-top:31px;
 	margin-bottom:31px;
+}
+#title_right{
+	border-radius: 20px 20px 0px 0px;
 }
 body{
 	font-family: Arial, Helvetica, sans-serif;
@@ -58,10 +61,7 @@ footer{
 	-webkit-columns:200px 2; /* Safari and Chrome */
 	-moz-columns:200px 2; /* Firefox */
 }
-#banner{
-	text-align:center;
-	margin-top: 10px;
-}
+
 html{
 	background-color: #696969;
 }
@@ -81,7 +81,9 @@ html{
 	margin-bottom: 30px;
 	line-height: 23px;
 }
-
+#aboutpic{
+	border-radius: 15px 15px 15px 15px;
+}
 #calender{
 	border-radius: 10px 10px 10px 10px;
 	background-color: #000000;
@@ -100,20 +102,14 @@ html{
 	margin-left: 44%;
 	margin-right: 45%;
 	margin-top:2em;
-	
-}
-#paragraph_mem{
-	text-align:center;
-	margin-left: 43%;
-	margin-right: 43%;
-	margin-top: 1em;
-	
-}
+}	
+
 #events{
 	float: right;
 }
 footer p{
 	margin-left: 3em;
+	border-radius: 10px 10px 10px 10px;
 }
 #contact_info{
 	text-align:center;
@@ -123,4 +119,9 @@ footer p{
 }
 #face{
 	text-align: center;
+}
+.content{
+	-moz-column-count:2
+	;
+	-moz-column-gap:35;
 }
