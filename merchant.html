@@ -24,6 +24,24 @@
 		</nav>
 	</header>
 <body>
+	<p id="demo">Wanna know where you're at</p>
+		<button onclick="getLocation()">Look here</button>
+		<script>
+var x=document.getElementById("demo");
+function getLocation()
+  {
+  if (navigator.geolocation)
+    {
+    navigator.geolocation.getCurrentPosition(showPosition);
+    }
+  else{x.innerHTML="Geolocation is not supported by this browser.";}
+  }
+function showPosition(position)
+  {
+  x.innerHTML="Latitude: " + position.coords.latitude + 
+  "<br>Longitude: " + position.coords.longitude;	
+  }
+</script>
 	<section id="merchant1">
 	<h2>Local Disc Merchants</h2>
 	<h4>The local merchants in this area are:</h4>
