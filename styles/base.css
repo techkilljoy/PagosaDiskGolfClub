@@ -58,10 +58,7 @@ footer{
 	-webkit-columns:200px 2; /* Safari and Chrome */
 	-moz-columns:200px 2; /* Firefox */
 }
-#banner{
-	text-align:center;
-	margin-top: 10px;
-}
+
 html{
 	background-color: #696969;
 }
@@ -100,20 +97,14 @@ html{
 	margin-left: 44%;
 	margin-right: 45%;
 	margin-top:2em;
-	
-}
-#paragraph_mem{
-	text-align:center;
-	margin-left: 43%;
-	margin-right: 43%;
-	margin-top: 1em;
-	
-}
+}	
+
 #events{
 	float: right;
 }
 footer p{
 	margin-left: 3em;
+	border-radius: 10px 10px 10px 10px;
 }
 #contact_info{
 	text-align:center;
