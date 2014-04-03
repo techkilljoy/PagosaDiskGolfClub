@@ -84,7 +84,9 @@ html{
 	margin-bottom: 30px;
 	line-height: 23px;
 }
-
+#aboutpic{
+	border-radius: 15px 15px 15px 15px;
+}
 #calender{
 	border-radius: 10px 10px 10px 10px;
 	background-color: #000000;
