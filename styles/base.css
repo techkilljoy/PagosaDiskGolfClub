@@ -81,7 +81,9 @@ html{
 	margin-bottom: 30px;
 	line-height: 23px;
 }
-
+#aboutpic{
+	border-radius: 15px 15px 15px 15px;
+}
 #calender{
 	border-radius: 10px 10px 10px 10px;
 	background-color: #000000;
@@ -117,4 +119,9 @@ footer p{
 }
 #face{
 	text-align: center;
+}
+.content{
+	-moz-column-count:2
+	;
+	-moz-column-gap:35;
 }
