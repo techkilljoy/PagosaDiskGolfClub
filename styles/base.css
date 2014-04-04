@@ -105,7 +105,7 @@ html{
 }	
 
 #events{
-	float: right;
+	float: left;
 }
 footer p{
 	margin-left: 3em;
@@ -121,7 +121,7 @@ footer p{
 	text-align: center;
 }
 .content{
-	-moz-column-count:2
-	;
+	-moz-column-count:2;
 	-moz-column-gap:35;
+	text-align: left;
 }
