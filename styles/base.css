@@ -7,6 +7,7 @@ header{
 }
 nav{
 	border-bottom: 2px solid #43AB38;
+	
 }
 #nav_bar ul{
 	list-style: none;
@@ -84,9 +85,11 @@ html{
 	background-color: #000000;
 	width: 50%;
 	margin-top: 3em;
+	float:left;
 }
 #events{
 	background-color: #696969;
+	
 }
 #banner{
 	text-align:center;
@@ -100,7 +103,7 @@ html{
 }	
 
 #events{
-	float: right;
+	float: left;
 }
 footer p{
 	margin-left: 3em;
@@ -116,7 +119,7 @@ footer p{
 	text-align: center;
 }
 .content{
-	-moz-column-count:2
-	;
+	-moz-column-count:2;
 	-moz-column-gap:35;
+	float: right;
 }
