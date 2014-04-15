@@ -14,6 +14,7 @@ nav{
 	padding: .5em 0;
 	background-color: #a2a3a2;
 	text-align: center;
+	background-color: #ffca31;
 }
 #nav_bar li{
 	display: inline;
@@ -66,13 +67,6 @@ footer{
 html{
 	background-color: #696969;
 }
-#nav_middle{
-	margin-right:7%;
-	
-}
-#nav_middle1{
-	margin-left:7%;
-}
 #merchant{
 	text-align: center;
 }
@@ -90,9 +84,11 @@ html{
 	background-color: #000000;
 	width: 50%;
 	margin-top: 3em;
+	float:left;
 }
 #events{
 	background-color: #696969;
+	
 }
 #banner{
 	text-align:center;
@@ -106,7 +102,7 @@ html{
 }	
 
 #events{
-	float: right;
+	float: left;
 }
 footer p{
 	margin-left: 3em;
@@ -122,7 +118,7 @@ footer p{
 	text-align: center;
 }
 .content{
-	-moz-column-count:2
-	;
+	-moz-column-count:2;
 	-moz-column-gap:35;
+	float: right;
 }
