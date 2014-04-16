@@ -10,10 +10,6 @@ Yahoo account
 username:pagosadiscgolfclub@yahoo.com
 password:ReservoirH1ll
 
-Facebook account
-username:
-password:
-
 rssinclude.com
 username:pagosadiscgolfclub@gmail.com
 password:ReservoirH1LL
