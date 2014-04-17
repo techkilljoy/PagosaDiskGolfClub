@@ -118,9 +118,12 @@ footer p{
 	text-align: center;
 }
 .content{
-	-moz-column-count:2;
+	-moz-column-count:1;
+	margin-right: 145px;
 	-moz-column-gap:35;
 	float: right;
+	width:350px;
+	margin-top: 155px;
 }
 
 
